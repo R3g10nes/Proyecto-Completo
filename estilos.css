@@ -1,0 +1,38 @@
+#contenedor{width: 100%; height: 690px; margin: auto; margin-top: auto; background-color: #b4faa6;}
+#encabezado{width: 98%; height: 100px; background-color: black; margin: auto; margin-top: 5px; float: center;}
+.titulo{width: 100%;height: 100px;background-color: #000000;float: left; text-align: center; font-size: 60px; font-family: "Arial black"; color: #5ef241; }
+img{width: 40%;height: 200px; }
+#nav{margin-top: 10px; width: 98%; height: 50px; background-color: black; margin: auto; margin-top: 3px; font-family: "papyrus"; font-size: 23px; color: #5ef241; text-align: justify; float: center;}
+#cuerpo{margin-top: 5px;  width: 98%; height: 500px; margin: auto;}
+.slider{width: 49.5%; height: 495px; margin-top: 5px;  background-color: black; float: left;}
+.slider2{width: 49.5%; height: 495px; margin-top: 5px; background-color: black; float: right; }
+#pie{margin-top: 10px; width: 98%; height: 20px; background-color: black; margin: auto; margin-top: 3px; font-family: "Georgia"; font-size: 13px; color: white; text-align:right; float: center;}
+h1{margin-top: 35px; font-family: "Marker Felt"; font-size: 30px; color: #5ef241; text-align: center; }
+li{margin-left: 40px; font-family: "papyrus"; font-size: 14px; color: white; text-align: left; font-size: 15px;}
+p{margin-left: 30px; margin-right: 30px; font-family: "papyrus"; font-size: 12px; color: white; text-align: left; font-size: 15px; text-align: justify; }
+label{margin-left: 20px; color: white; font-family: "papyrus";}
+.billie{ margin-left: 55%; margin-top: 15px; }
+hr{width: 90%; height: 3px; background-color: #5ef241; box-decoration-break: }
+h2{color: #5ef241; font-family: "Marker Felt"; font-size: 15px; margin-left: 35px;}
+h3{color: gray; font-family: "arial"; font-size: 10px; margin-left: 35px;}
+table{margin-left: auto;margin-right:auto; width: 70%; background-color: gray ; border: 1px solid; border-radius: 10px}
+input{ margin: auto; height: 15px; background-color: #e6e6ff; }
+option{width: 150px; }
+.input2{width: 10px; }
+.enlaces{ margin-left: 40px; color: white;}
+.imgs{ margin-left: 50%; }
+.submit{width: 40%; height: 40px; margin-left: 30%; margin-top: 10px;}
+.img2{width: 90%; height: 80%; margin-left: 26px; margin-top: 50px;}
+.fuenteindex{color:#5ef241; ; font-family: "Marker Felt"; font-size: 30px; margin-left: auto; margin-top: 20%; text-align: center;}
+.nav-barra{color: white;font-size: 20px; text-decoration: none; padding: 0; display: inline-block; margin-top: 9px; margin-left: 80px;} 
+video{ width: 80%; margin-left: 50px; margin-top: 10px; }
+.fondovideo {width: 100% height100% ;}
+.imagendisco{width: 120px;height:120px}
+body{background-color: #006666 }
+.tabledisco{background-color: black; margin-left: auto;margin-right: auto; border:1px;margin-top: 8%;}
+.fuentedisco{ font-family: "papyrus"; font-size: 12px; color: white; text-align: center;}
+.tabledisco1{background-color: black; margin-left: auto;margin-right: auto; border:1px;margin-top: 5%;}
+a:hover {
+  color: #5ef241;
+}
+		
